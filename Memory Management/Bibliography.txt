@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/c_standard_library/c_function_realloc.htm
+https://www.geeksforgeeks.org/memory-management-in-operating-system/
+https://github.com/nealian/cse325_project5
+https://www.thecrazyprogrammer.com/2017/01/first-fit-algorithm-in-c.html
+https://technicalpickout.com/c-code-first-fit-best-fit-worst-fit/
+https://stackoverflow.com/questions/5422061/malloc-implementation
+http://tharikasblogs.blogspot.com/p/how-to-write-your-own-malloc-and-free.html
