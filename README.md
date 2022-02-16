@@ -8,4 +8,4 @@ listed above while the 4th was a report on Threading in Windows Operating System
 
 If you think these are helpful in any way, let us know. It will encourage us to be more active in submitting more exercises on Github in different subjects of Software Technology taught at DTU Lyngby / Ballerup
 
-For books write to digitalbangash1@hotmail.com
+For books write to digitalbangash1@hotmail.com  
